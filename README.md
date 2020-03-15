@@ -29,3 +29,7 @@ Execution of code:Press the green "Play" icon in matlab, wait for completion
 Viewing results: On the right hand side of the screen is the variable window which contains the variable results. Double clicking on the result variable will open the data in the variable. This data can then be correlated to the senselen and pointct input ranges. Data can be graphed in external programs such as Microsoft excel. Experiment 2 has additional code that will automatically generate graphs
 
 Reference: Matlab array format:  initial:step:max
+
+![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/Figure1.png)
+![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/Figure2.png)
+
