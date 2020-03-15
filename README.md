@@ -30,6 +30,6 @@ Viewing results: On the right hand side of the screen is the variable window whi
 
 Reference: Matlab array format:  initial:step:max
 
-![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/Figure1.png)
-![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/Figure2.png)
+![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure1.png)
+![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure2.png)
 
