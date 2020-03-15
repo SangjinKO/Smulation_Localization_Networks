@@ -30,5 +30,5 @@ Viewing results: On the right hand side of the screen is the variable window whi
 
 Reference: Matlab array format:  initial:step:max
 
-![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure1.png)
-![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure2.png)
+![Figure1](https://user-images.githubusercontent.com/37521147/76703894-8da40980-66ab-11ea-965d-82b4579ed4be.PNG)
+![Figure2](https://user-images.githubusercontent.com/37521147/76703895-8da40980-66ab-11ea-8430-5c7f6deab2cf.PNG)
