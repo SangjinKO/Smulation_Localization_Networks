@@ -32,4 +32,4 @@ Reference: Matlab array format:  initial:step:max
 
 ![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure1.png)
 ![Image of Result](https://github.com/SangjinKO/Smulation_Localization_Networks/images/Figure2.png)
-
+![Alt text](/images/Figure1.png?raw=true "Optional Title")
